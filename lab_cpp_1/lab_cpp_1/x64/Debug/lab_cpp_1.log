@@ -1,2 +1,5 @@
-﻿  lab_cpp_1.cpp
+﻿  functions.cpp
+  lab_cpp_1.cpp
+C:\Всё\ВолГУ\2 семестр\Информатика и программирование\lab_cpp_1\lab_cpp_1\lab_cpp_1.cpp(36,58): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода...
   lab_cpp_1.vcxproj -> C:\Всё\ВолГУ\2 семестр\Информатика и программирование\lab_cpp_1\x64\Debug\lab_cpp_1.exe
